@@ -17,7 +17,9 @@ data.
 - https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 - https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
-Software: - MapBox APIs - D3 - Leaflet \#\# Summary MapBox, a company that
+Software: - MapBox APIs - D3 - Leaflet 
+
+## Summary MapBox, a company that
 providees custom maps for websites and applications, supplies APIs that are used
 to create interactive maps. Incorporating these APIs in combination with the
 Leaflet JavaScript library, enables easy and highly customizable map creation.
